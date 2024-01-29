@@ -1,0 +1,15 @@
+h1,h2,h3 {
+    background-color: #fc5a8d;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+div { 
+     text-align: center;
+}
+.bold {
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,15 @@
+h1 {
+    background-color: green;
+    color: yellow;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.bold {
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+}
+.size {
+    font-size: large;
+}
